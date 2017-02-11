@@ -1,1 +1,1 @@
-# openCV_python
+# Detect HSV values in openCV using Scroll Bars
